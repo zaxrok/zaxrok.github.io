@@ -2,5 +2,6 @@
 "name": "ChainPool",
 "description": "High performance Cardano stake pool for secure and reliable staking.",
 "ticker": "CHPL",
-"homepage": "https://www.chainpool.co.kr"
+"homepage": "https://www.chainpool.co.kr",
+"extended": "https://zaxrok.github.io/extended-metadata.json"
 }
