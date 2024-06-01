@@ -1,13 +1,13 @@
 {
-    "verification":"verification-string-here-for-pool-claim",
+    "verification":"33b7c1bc2f70782421",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": "London, England",
+        "location": ", Seoul",
         "social": {
-            "twitter_handle": "cexplorer_io",
-            "telegram_handle": "cexplorer_io",
+            "twitter_handle": "",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -18,17 +18,17 @@
             "ada_handle": "$cexplorer"
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
+            "name": "ChainPool",
+            "addr": "Susaek-ro 100-gil",
+            "city": "Seoul",
+            "country": "South Korea",
             "company_id": "123456789",
             "vat_id": "GB123456789"
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "I live in South Korea and I am a robot developer as well as a server developer. I started in 2022 and began operating a Cardano pool in May 2024. It is a small start, but I want to contribute to the Cardano ecosystem.",
+            "server": "The server is operated with a dedicated giga-line and two workstations.",
+            "company": "The company was founded three years ago and initially aimed to integrate robots with the Cardano blockchain. However, due to the Luna/Terra incident, all business was halted, and we have been attempting to restart since the end of last year."
         }
     }
 }
